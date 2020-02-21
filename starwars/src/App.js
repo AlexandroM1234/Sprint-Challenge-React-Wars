@@ -22,7 +22,8 @@ const App = () => {
     flex-wrap:wrap;
   `
   const StyledHeader=styled.h1`
-font-family: 'Press Start 2P';
+  color:white;
+  font-family: 'Press Start 2P';
 `
 
 
